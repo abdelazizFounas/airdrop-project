@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@solana/web3.js": "^1.89.1"
+    "@solana-developers/helpers": "^1.5.1",
+    "@solana/web3.js": "^1.89.1",
+    "dotenv": "^16.4.1"
   }
 }
